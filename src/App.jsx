@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, MapPin, Users, Heart, BarChart, LoaderCircle, Star } from 'lucide-react';
+import { Search, MapPin, Users, Heart, BarChart, UserCircle as LoaderCircle, Star } from 'lucide-react';
 
 // Main App Component
 const App = () => {
